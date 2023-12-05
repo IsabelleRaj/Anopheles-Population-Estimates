@@ -1,6 +1,6 @@
 # Comparing estimates of historical and contemporary effective population size (_Ne_)
 
-This repository contains all the code written for my undergraduate final year project (FYP).The aim of this project is to use the genomic data from the _Anopheles gambiae_ 1000 Genomes (Ag1000G) Project phase 3 dataset from MalariaGEN to compare two estimates of _Anopheles coluzzii_ effective population sizes (_Ne_): historical and contemporary _Ne_. 
+This repository contains all the code written for my biological sciences undergraduate final year project (FYP) at Imperial College London. The aim of this project is to use the genomic data from the _Anopheles gambiae_ 1000 Genomes (Ag1000G) Project phase 3 dataset from MalariaGEN to compare two estimates of _Anopheles coluzzii_ effective population sizes (_Ne_): historical and contemporary _Ne_. Mosquitos of the _Anopheles gambiae species complex_ are vectors of diseases like malaria, a life-threatening disease with over millions of annual cases globally. Estimates of _Anopheles spp._ population sizes is key for vector control strategies e.g., to monitor the success of an intervention such as insectides, but also to determine the necessary amount of intervention required such as for gene-drive technology.
 
 ## Description of Files
 ### (1) - Exploring the metadata
@@ -22,4 +22,7 @@ This repository contains all the code written for my undergraduate final year pr
 * Conduct a randomisation test to plot the distribution of _Fa_ statistics
 #### (3.2) - Drift: Confidence intervals (CI)
 * Calculate the confidence intervals for the _Fa_ statistics and contemporary _Ne_
+
+## Acknowledgments
+My sincere thanks to Dr Vassiliki Koufopanou and Dr Tin-Yu Hui for their guidance throughout the project and also Dr Jon Brenas and Josh Reynolds for their coding-related assistance.
 
