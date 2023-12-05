@@ -1,6 +1,8 @@
 # Comparing estimates of historical and contemporary effective population size (_Ne_)
 
-This repository contains all the code written for my biological sciences undergraduate final year project (FYP) at Imperial College London. The aim of this project is to use the genomic data from the _Anopheles gambiae_ 1000 Genomes (Ag1000G) Project phase 3 dataset from MalariaGEN to compare two estimates of _Anopheles coluzzii_ effective population sizes (_Ne_): historical and contemporary _Ne_. Mosquitos of the _Anopheles gambiae species complex_ are vectors of diseases like malaria, a life-threatening disease with over millions of annual cases globally. Estimates of _Anopheles spp._ population sizes is key for vector control strategies e.g., to monitor the success of an intervention such as insectides, but also to determine the necessary amount of intervention required such as for gene-drive technology.
+This repository contains all the code written for my biological sciences undergraduate final year project (FYP) at Imperial College London. The aim of this project is to use the genomic data from the _Anopheles gambiae_ 1000 Genomes (Ag1000G) Project phase 3 dataset from MalariaGEN to compare two estimates of _Anopheles coluzzii_ effective population sizes (_Ne_): historical and contemporary _Ne_.
+
+Mosquitos of the _Anopheles gambiae species complex_ are vectors of diseases like malaria, a life-threatening disease with over millions of annual cases globally. Estimates of _Anopheles spp._ population sizes is key for vector control strategies e.g., to monitor the success of an intervention such as insectides, but also to determine the necessary amount of intervention required such as for gene-drive technology.
 
 ## Description of Files
 ### (1) - Exploring the metadata
