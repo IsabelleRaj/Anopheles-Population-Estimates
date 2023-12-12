@@ -6,7 +6,7 @@ Mosquitos of the _Anopheles gambiae species complex_ are vectors of diseases lik
 
 All code was run on R (version 3.6.1) or Python (version 3.9.13). The malariagen_data (version 3.0.0) (https://github.com/malariagen/malariagen-data-python) and scikit-allel (version 1.3.5) (https://github.com/cggh/scikit-allel) Python packages were used primarily. Pandas, Numpy and Matplotlib were also extensively used. 
 
-Skills used: Data manipulation, creating functions, project documentation, mathemcatical operations, data visualisation.
+Skills used: Data manipulation, creating functions, project documentation, mathematical operations, data visualisation.
 
 ## Description of Files
 ### (1) - Exploring the metadata
