@@ -24,7 +24,7 @@ Skills used: Data manipulation, creating functions, project documentation, mathe
 * Download and filter for single nucleotide polymorphic sites (SNPs) which are biallelic (two different alleles), not rare and filter to avoid linkage disequilibrium (LD)
 * Calculate the temporal _Fa_ statistic
 * Calculate contemporary _Ne_
-#### (3.1) - Drfit: Randomisation
+#### (3.1) - Drift: Randomisation
 * Conduct a randomisation test to plot the distribution of _Fa_ statistics
 #### (3.2) - Drift: Confidence intervals (CI)
 * Calculate the confidence intervals for the _Fa_ statistics and contemporary _Ne_
