@@ -1,4 +1,5 @@
 # Comparing estimates of historical and contemporary effective population size (_Ne_) of _Anopheles coluzzii_ 🦟
+<img src="https://github.com/user-attachments/assets/84d1bd1b-281c-4371-9081-143c1d0c2acf" alt="Mosquito Image" width="400"/>
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
