@@ -1,5 +1,4 @@
 # Comparing estimates of historical and contemporary effective population size (_Ne_) of _Anopheles coluzzii_ 🦟
-<img src="https://github.com/user-attachments/assets/84d1bd1b-281c-4371-9081-143c1d0c2acf" alt="Mosquito Image" width="400"/>
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -14,7 +13,7 @@
 
 Mosquitos of the _Anopheles gambiae species complex_ are vectors of diseases like malaria, a life-threatening disease with over millions of annual cases globally. Estimates of _Anopheles spp._ population sizes is key for **vector control strategies** e.g., to monitor the success of an intervention such as insectides, but also to determine the necessary amount of intervention required such as for gene-drive technology.
 
-The results of this project can be found in the disseration folder.
+<img src="https://github.com/user-attachments/assets/84d1bd1b-281c-4371-9081-143c1d0c2acf" alt="Mosquito Image" width="250"/>
 
 ## Installation
 To get access to the notebooks:
