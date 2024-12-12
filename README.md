@@ -9,25 +9,27 @@ All code was run on R (version 3.6.1) or Python (version 3.9.13). The malariagen
 Skills used: Data manipulation, creating functions, project documentation, mathematical operations, data visualisation.
 
 ## Description of Files
+In the code folder, there are several notebook which perform a different task of the project. These are listed below:
+
 ### (1) - Exploring the metadata
-* Install and import the MalariaGEN API (malariagen_data)
-* Explore the sample sets and metadata to choose location of study i.e., _An.coluzzii_ in Niono, Mali from 2013 and 2015
+* Install and import the MalariaGEN API (malariagen_data).
+* Explore metadata and select the study location (*An.coluzzii* in Niono, Mali, 2013-2015).
 
 ### (2) - Diversity
-* Compute average nucleotide diversity statistics for the chosen samples
-* Conduct sliding window analysis of nucleotide diversity across the X and 3R chromosomes
-* Calculate historical _Ne_
+* Compute average nucleotide diversity statistics for chosen samples.
+* Conduct sliding window analysis on the X and 3R chromosomes.
+* Calculate historical *Ne*.
 #### (2.1) - Diversity: Number of sites
-* Calculate the number of genetic sites used to compute the diversity statistics
+* Calculate the number of genetic sites used to compute the diversity statistics.
 
 ### (3) - Drift
-* Download and filter for single nucleotide polymorphic sites (SNPs) which are biallelic (two different alleles), not rare and filter to avoid linkage disequilibrium (LD)
-* Calculate the temporal _Fa_ statistic
-* Calculate contemporary _Ne_
+* Filter SNPs (single nucleotide polymorphisms) for biallelic and non-rare sites, as well as sites to avoid linkage disequilibrium (LD).
+* Calculate the temporal _Fa_ statistic.
+* Calculate contemporary _Ne_.
 #### (3.1) - Drift: Randomisation
-* Conduct a randomisation test to plot the distribution of _Fa_ statistics
+* Perform a randomisation test to plot the distribution of _Fa_ statistics.
 #### (3.2) - Drift: Confidence intervals (CI)
-* Calculate the confidence intervals for the _Fa_ statistics and contemporary _Ne_
+* Calculate confidence intervals for the _Fa_ statistics and contemporary _Ne_.
 
 ## Acknowledgments
 My sincere thanks to Dr Vassiliki Koufopanou and Dr Tin-Yu Hui for their guidance throughout the project and also Dr Jon Brenas and Josh Reynolds for their coding-related assistance.
