@@ -20,9 +20,10 @@ To get access to the notebooks:
   1. Open your command prompt.
   2. Navigate to your desired directory.
   3. Git clone this repository using the following command:
-    ```bash
-    git clone https://github.com/IsabelleRaj/Anopheles-Population-Estimates
-    ```
+
+```bash
+git clone https://github.com/IsabelleRaj/Anopheles-Population-Estimates
+```
 
 The code was run on R (version 3.6.1) (for notebook 3.1) and Python (version 3.9.13) (remaining notebooks). The following Python packages were primarily used:
 - [malariagen_data](https://github.com/malariagen/malariagen-data-python) (version 3.0.0)
@@ -51,9 +52,6 @@ pip install malariagen_data==3.0.0 scikit-allel==1.3.5
 ## Data Source
 The genomic data was sourced from MalariaGEN's [_Anopheles gambiae_ 1000 Genomes (Ag1000G) Project Phase 3 dataset](https://www.malariagen.net/data_package/ag30-anopheles-gambiae-data-resource/), using the [MalariaGEN API](https://malariagen.github.io/malariagen-data-python/latest/).  
 
-
-All code was run on R (version 3.6.1) or Python (version 3.9.13). The malariagen_data (version 3.0.0) (https://github.com/malariagen/malariagen-data-python) and scikit-allel (version 1.3.5) (https://github.com/cggh/scikit-allel) Python packages were used primarily. Pandas, Numpy and Matplotlib were also extensively used. 
-
 ## Description of Files
 In the code folder, there are several notebook which perform a different task of the project. These are listed below:
 
@@ -78,4 +76,6 @@ In the code folder, there are several notebook which perform a different task of
 * Calculate confidence intervals for the _Fa_ statistics and contemporary _Ne_.
 
 ## Acknowledgments
-This project was conducted in 2023 for my BSc biological sciences final year project at Imperial College London. My sincere thanks to Dr. Vassiliki Koufopanou and Dr. Tin-Yu Hui for their invaluable guidance throughout the project. Thanks to Dr. Jon Brenas and Josh Reynolds for their assistance with coding.
+This project was conducted in 2023 for my BSc biological sciences final year project at Imperial College London. 
+My sincere thanks to Dr. Vassiliki Koufopanou and Dr. Tin-Yu Hui for their invaluable guidance throughout the project. 
+Thanks to Dr. Jon Brenas and Josh Reynolds for their assistance with coding.
